@@ -8,7 +8,7 @@ function Logo() {
   return (
     <div className="w-full bg-black">
       <img
-        src="srclogo.png"
+        src="src/logo.png"
         alt="J.C Painting Logo"
         className="w-full h-[220px] md:h-[260px] object-contain"
       />
